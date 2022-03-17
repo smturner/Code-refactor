@@ -35,6 +35,7 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+
 }
 
 .header div ul li {
@@ -55,7 +56,6 @@ a {
     background-size: cover;
     background-position: center;
 }
-
 
 /* Main Content*/
 
